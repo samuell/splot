@@ -1,0 +1,2 @@
+# splot
+Simple Sequence Plotter
